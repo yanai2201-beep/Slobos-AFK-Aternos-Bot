@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "ferret_199.aternos.me",
-    "port": 24113,
+    "port":24113,
     "version": "",
     "try-creative": false
   },
